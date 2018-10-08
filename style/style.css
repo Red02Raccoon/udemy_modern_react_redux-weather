@@ -1,0 +1,13 @@
+svg {
+	width: 100%;
+	max-width: 100%;
+}
+
+.table td {
+	width: 29%;
+}
+
+.table td:first-child {
+	width: 13%;
+
+}
